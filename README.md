@@ -5,7 +5,7 @@ This is a telegram bot writen in python for searching files in Drive.
 
 - Clone this repo:
 ```
-git clone https://github.com/ayushteke/Drive-Search-Bot
+git clone https://github.com/cloud318/Drive-Search-Bot
 cd Drive-Search-Bot
 ```
 ## YouTube Video 
@@ -129,6 +129,3 @@ sudo docker build . -t search-bot
 ```
 sudo docker run search-bot
 ```
-# Credits :
-
-- python-aria-mirror-bot - [lzzy12](https://github.com/lzzy12/python-aria-mirror-bot)
